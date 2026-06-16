@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+menumate.db
+.env
+.DS_Store
